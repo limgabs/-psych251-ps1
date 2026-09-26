@@ -1,5 +1,5 @@
 # psych251-ps1
-[https://limgab.github.io/psych251-ps1/](https://limgab.github.io/psych251-ps1/)
+[https://limgabs.github.io/psych251-ps1/](https://limgabs.github.io/psych251-ps1/)
 
 pset 1 of course psych 251
 
