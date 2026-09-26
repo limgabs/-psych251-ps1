@@ -6,4 +6,5 @@ editor: visual
 
 ```{r}
 summary(cars)
+str(cars)
 ```
